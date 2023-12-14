@@ -1,0 +1,3 @@
+This is a test 
+Hello todays date is 12/13/23 and we are going 
+to see if we can finish the odin project good luck to myself
